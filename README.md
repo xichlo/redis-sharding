@@ -1,7 +1,8 @@
 redis-sharding
-===========
+==============
 
-	A consistent sharding library for redis in node. Using 'crc32', 'hashring'.
+A consistent sharding library for redis in node. Using 'crc32', 'hashring'.
+
 	
     var RedisSharding = require('redis-sharding');
 
